@@ -1,4 +1,12 @@
+![spotifyClone](https://github.com/user-attachments/assets/65e636c3-a2a0-48a8-a592-e194f4a08d50)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+
+
 
 # Getting Started
 
